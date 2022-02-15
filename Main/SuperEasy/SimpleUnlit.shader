@@ -8,7 +8,7 @@
 
 // Defines a shader in ShaderLab, we normally don't touch this and Unity sets it up for us
 // If you change the name it will change the name of the shader inside the material menu!
-Shader "Opal/SimpleUnlit"
+Shader "Opal/Tutorials/SimpleUnlit"
 {
     // Properties we can give the shader that will show up on materials
     // This could be a texture, number, toggle, or more!
