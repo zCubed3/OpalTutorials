@@ -11,8 +11,5 @@ If you don't want to learn HLSL, go on a website like [shadertoy.com](https://ww
 ### Difficulty
 #### SuperEasy - Easiest, recommended for newbies to shaders!
 #### Easy - Easier, recommended for people with a little shader experience!
-
-#### **GLSL stops here, sorry!**
-
 #### Medium - More difficult, recommended for people who understand shader basics!
 #### Hard - Super difficult, recommended for people who understand more complex shader topics and want to make complex effects!
